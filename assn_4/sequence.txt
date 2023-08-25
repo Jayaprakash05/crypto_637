@@ -1,0 +1,8 @@
+run random_input_generator.cpp >> input.txt
+run interact.sh >> out.txt
+run extract.cpp >> output.txt
+run converter.cpp >> binary_output.txt
+run des.cpp >> frequency.txt, key_temp.txt
+run schedule.cpp >> key_out.txt
+run Bruteforce.cpp >> finalKey.txt
+run find_password.cpp >> finalPassword.txt
