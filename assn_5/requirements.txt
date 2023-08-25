@@ -1,0 +1,7 @@
+To automate ssh with a password we installed sshpass
+
+To install it in ubuntu we used
+sudo apt-get install sshpass
+
+After that we used this command in our script to enter to our server
+sshpass -p cs641a ssh -tt students@172.27.26.188

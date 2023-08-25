@@ -1,0 +1,2325 @@
+lucifer
+lucifer
+5
+go
+wave
+dive
+go
+read
+lmlmifififififff
+c
+lmlmifififififfg
+c
+lmlmifififififfh
+c
+lmlmifififififfi
+c
+lmlmifififififfj
+c
+lmlmifififififfk
+c
+lmlmifififififfl
+c
+lmlmifififififfm
+c
+lmlmifififififfn
+c
+lmlmifififififfo
+c
+lmlmifififififfp
+c
+lmlmifififififfq
+c
+lmlmifififififfr
+c
+lmlmifififififfs
+c
+lmlmifififififft
+c
+lmlmifififififfu
+c
+lmlmifififififgf
+c
+lmlmifififififgg
+c
+lmlmifififififgh
+c
+lmlmifififififgi
+c
+lmlmifififififgj
+c
+lmlmifififififgk
+c
+lmlmifififififgl
+c
+lmlmifififififgm
+c
+lmlmifififififgn
+c
+lmlmifififififgo
+c
+lmlmifififififgp
+c
+lmlmifififififgq
+c
+lmlmifififififgr
+c
+lmlmifififififgs
+c
+lmlmifififififgt
+c
+lmlmifififififgu
+c
+lmlmifififififhf
+c
+lmlmifififififhg
+c
+lmlmifififififhh
+c
+lmlmifififififhi
+c
+lmlmifififififhj
+c
+lmlmifififififhk
+c
+lmlmifififififhl
+c
+lmlmifififififhm
+c
+lmlmifififififhn
+c
+lmlmifififififho
+c
+lmlmifififififhp
+c
+lmlmifififififhq
+c
+lmlmifififififhr
+c
+lmlmifififififhs
+c
+lmlmifififififht
+c
+lmlmifififififhu
+c
+lmlmifififififif
+c
+lmlmifififififig
+c
+lmlmifififififih
+c
+lmlmifififififii
+c
+lmlmifififififij
+c
+lmlmifififififik
+c
+lmlmifififififil
+c
+lmlmifififififim
+c
+lmlmifififififin
+c
+lmlmifififififio
+c
+lmlmifififififip
+c
+lmlmifififififiq
+c
+lmlmifififififir
+c
+lmlmifififififis
+c
+lmlmifififififit
+c
+lmlmifififififiu
+c
+lmlmifififififjf
+c
+lmlmifififififjg
+c
+lmlmifififififjh
+c
+lmlmifififififji
+c
+lmlmifififififjj
+c
+lmlmifififififjk
+c
+lmlmifififififjl
+c
+lmlmifififififjm
+c
+lmlmifififififjn
+c
+lmlmifififififjo
+c
+lmlmifififififjp
+c
+lmlmifififififjq
+c
+lmlmifififififjr
+c
+lmlmifififififjs
+c
+lmlmifififififjt
+c
+lmlmifififififju
+c
+lmlmifififififkf
+c
+lmlmifififififkg
+c
+lmlmifififififkh
+c
+lmlmifififififki
+c
+lmlmifififififkj
+c
+lmlmifififififkk
+c
+lmlmifififififkl
+c
+lmlmifififififkm
+c
+lmlmifififififkn
+c
+lmlmifififififko
+c
+lmlmifififififkp
+c
+lmlmifififififkq
+c
+lmlmifififififkr
+c
+lmlmifififififks
+c
+lmlmifififififkt
+c
+lmlmifififififku
+c
+lmlmifififififlf
+c
+lmlmifififififlg
+c
+lmlmifififififlh
+c
+lmlmifififififli
+c
+lmlmifififififlj
+c
+lmlmifififififlk
+c
+lmlmifififififll
+c
+lmlmifififififlm
+c
+lmlmifififififln
+c
+lmlmifififififlo
+c
+lmlmifififififlp
+c
+lmlmifififififlq
+c
+lmlmifififififlr
+c
+lmlmifififififls
+c
+lmlmifififififlt
+c
+lmlmifififififlu
+c
+lmlmifififififmf
+c
+lmlmifififififmg
+c
+lmlmifififififmh
+c
+lmlmifififififmi
+c
+lmlmifififififmj
+c
+lmlmifififififmk
+c
+lmlmifififififml
+c
+lmlmifififififmm
+c
+lmlmifififififmn
+c
+lmlmifififififmo
+c
+lmlmifififififmp
+c
+lmlmifififififmq
+c
+lmlmifififififmr
+c
+lmlmifififififms
+c
+lmlmifififififmt
+c
+lmlmifififififmu
+c
+back
+exit
+[3;J[H[2J
+
+		WELCOME TO THE CAVES!
+
+		Enter your group name: 
+
+		Enter password: 
+
+
+You have solved 5 levels so far.
+Level you want to start at: [3;J[H[2J
+
+
+
+	You are in a passage. There is very little light here.
+	You light a matchstick... the floor is full of rocks.
+	A cold draught hits you from behind and you shiver. You try to
+	walk quickly but stumble. Cursing your luck, you slow
+	down. The passage curves downwards. You put one hand on a 
+	side wall for guidance. The downward slope becomes steeper. 
+	You walk very slowly to avoid falling down. The slope has 
+	become very steep now... You throw away the matchstick to
+	hold both side walls of the passage with your hands. It becomes
+	completely dark! Your foot hits a small rock that rolls 
+	down the passage. Stopping, you try to hear the sound of 
+	the rock hitting the bottom and after a while you hear a 
+	very distant splashing sound. The passage seems to be
+	leading to some deep underground well! 
+
+> [3;J[H[2J
+
+
+
+	You bravely decide to go ahead. With slow and deliberate
+	steps, you go down the slope. Suddenly, as you put down a
+	foot on the floor, your foot finds thin air! In almost slow
+	motion, you fall forward. You throw your hands about to hold
+	a rock but miss everything and suddenly you are in a free 
+	fall!! Desperate, you try to grab something, but there is 
+	nothing to grab ...
+	
+> [3;J[H[2J
+
+
+
+	Magically, your fall downwards is arrested! Almost in slow
+	motion, you go downwards till you hit water. It is very cold!
+	You swim in one direction in the hope of finding dry land, but
+	only find vertical rocky wall. Swimming in opposite direction
+	yields the same result!
+
+> [3;J[H[2J
+
+
+
+	Diving under the water, you immediately notice mild yellowish
+	light coming out of what appears like a hole in a wall under the 
+	water. Swimming quickly, you go through the hole. Now swimming 
+	upwards, you quickly hit the surface, and find yourself in a
+	kind-of pool. The pool is circular in shape. You swim to one end
+	of it, and climb out of water...
+
+	After a while, you look around the place. The pool is a perfect
+	cicle! It cannot be naturally formed, you conclude. Then who could
+	have constructed a pool in such a place? There are a number of
+	lighted torches all around, providing ample yellow light. Someone 
+	seems to have fitted these torches and lighted them! Another unanswered
+	fact... 
+	
+	A well-lit passage is carved in the wall, and seems to be leading 
+	somewhere deep inside...
+
+> [3;J[H[2J
+
+
+
+	You walk down the passage. After quite a long walk, the
+	passage ends in a small door. Entering, you stand transfixed! 
+	You are inside a large hall! Someone has constructed this deep
+	inside the mountains!! The floor and the walls are made of marble, 
+	there are chandeliers hanging from the ceiling with burning 
+	torches inside. You rub your eyes in disbelief. But the scene stays.
+	Recovering a little from the initial shock, you look around the hall. 
+	It has two exits, one where you enetered from and the other that is
+	closed. It has a glass panel next to it and it is a proper door, made 
+	of carved wood...
+
+	You go around the hall, exploring its details. The marble is is 
+	very good quality. (How did someone get all this marble here, 
+	you wonder?) It feels cold. The chandeliers are made of crystal glass, 
+	so the light is reflecting in beautiful patterns. Who designed all this? 
+		
+> [3;J[H[2J
+
+
+
+	You come up to the closed door and look at the screen ...
+	... there is nothing written on it as earlier.
+
+	As you wonder if the spirit is around to help you out, you hear
+	it whispering in your ears ...
+
+	"This is another magical screen. And this one I remember perfectly...
+	
+	Consider a block of size 8 bytes as 8 x 1 vector over F_{128} --
+	constructed using the degree 7 irreducible polynomial x^7 + x + 1
+	over F_2. Define two transformations: first a linear transformation 
+	given by invertible 8 x 8 key matrix A with elements from F_{128} and 
+	second an exponentiation given by 8 x 1 vector E whose elements are 
+	numbers between 1 and 126. E is applied on a block by taking the ith 
+	element of the block and raising it to the power given by ith element in E.
+
+	Apply these transformations in the sequence EAEAE on the input block
+	to obtain the output block. Both E and A are part of the key.
+
+	You can see the coded password by simply whispering 'password' near 
+	the screen..."
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikit
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikir
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfo
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkf
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikho
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikki
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikff
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikht
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgf
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgo
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklo
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikil
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikln
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgl
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhn
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfn
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjs
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmf
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkn
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklf
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikms
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgs
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgn
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjo
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgi
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkt
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhl
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikft
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfi
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikin
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikli
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjt
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfs
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmi
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikij
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikku
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklu
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhf
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjn
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhu
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfl
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhs
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgt
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikik
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkl
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikll
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgu
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmo
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmu
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikif
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfp
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklt
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikls
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikiq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikko
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikji
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikih
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikii
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmh
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikkg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjf
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikgg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikks
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfu
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmn
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikju
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjl
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikiu
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikip
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikhi
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmm
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikio
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfg
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikfq
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikis
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikml
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhiklr
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikig
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikim
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmt
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikjk
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+
+Slowly, a new text starts appearing on the screen. It reads ...
+		ijkrmumkkukhikmj
+
+
+Press c to continue> [3;J[H[2J
+
+
+
+	The text in the screen vanishes!
+
+> [3;J[H[2J
+
+
+
+	You walk down the passage. After quite a long walk, the
+	passage ends in a small door. Entering, you stand transfixed! 
+	You are inside a large hall! Someone has constructed this deep
+	inside the mountains!! The floor and the walls are made of marble, 
+	there are chandeliers hanging from the ceiling with burning 
+	torches inside. You rub your eyes in disbelief. But the scene stays.
+	Recovering a little from the initial shock, you look around the hall. 
+	It has two exits, one where you enetered from and the other that is
+	closed. It has a glass panel next to it and it is a proper door, made 
+	of carved wood...
+
+	You go around the hall, exploring its details. The marble is is 
+	very good quality. (How did someone get all this marble here, 
+	you wonder?) It feels cold. The chandeliers are made of crystal glass, 
+	so the light is reflecting in beautiful patterns. Who designed all this? 
+		
+> [3;J[H[2J
